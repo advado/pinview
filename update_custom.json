@@ -1,7 +1,7 @@
 {
-    "title":"SANUSA TV OS 2.1.0 Update Found!",
+    "title":"SANUSA TV OS 1.51 Update Found!",
     "content":"1. Optimized UI experience;\n2. Optimized Source Design course;\n3. Add Cast and media;\n4. Fixed Bugs.",
-    "url":"http://59.110.162.30/v450_imooc_updater.apk",
-    "md5":"14480fc08932105d55b9217c6d2fb90b",
-    "versionCode": "450"
+    "url":"https://github.com/tsynik/LeanbackLauncher/releases/download/v1.51/LeanbackOnFire_v1.51-release.apk",
+    "md5":"EEF162FFDE10E176C03F74981A8707CF",
+    "versionCode": "51"
 }
