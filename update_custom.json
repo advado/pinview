@@ -1,9 +1,7 @@
 {
-  "hasUpdate": true,
-  "isIgnorable": true,
-  "versionCode": 3,
-  "versionName": "1.0.5",
-  "updateLog": "\r\n1、sns new。\r\n2、sn2 update。\r\n3、bug fix。\r\n4、admin new。",
-  "apkUrl": "https://github.com/tsynik/LeanbackLauncher/releases/download/v1.50/LeanbackOnFire_v1.50-release.apk",
-  "apkSize": 102044,
+    "title":"4.5.0 is updated!",
+    "content":"1. Optimized UI experience;\n2. Optimized Source Design course;\n3. Add Cast and media;\n4. Fixed Bugs.",
+    "url":"http://59.110.162.30/v450_imooc_updater.apk",
+    "md5":"14480fc08932105d55b9217c6d2fb90b",
+    "versionCode": "450"
 }
