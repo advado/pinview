@@ -1,15 +1,15 @@
 [
  {
   "id":0,
-  "name": "TRT 1 FHD",
-  "category": "colorsHD",
+  "name": "colorsHD",
+  "category": "mix",
   "photo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
   "url": "https://www.livesportsclub.tk/jiotv/app/live/144/null/index.m3u8"
  },
  {
   "id":1,
-  "name": "Star Tv HD",
-  "category": "abp news",
+  "name": "ABP news",
+  "category": "mix",
   "photo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
   "url": "https://www.livesportsclub.tk/jiotv/app/live/177/null/index.m3u8"
  },
