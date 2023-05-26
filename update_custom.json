@@ -3,7 +3,9 @@
         {
             "name": "ABP News",
             "logo": "bbc_news.png",
-            "url": "https://www.livesportsclub.tk/jiotv/app/live/177/null/index.m3u8"
+            "url": [
+                "https://www.livesportsclub.tk/jiotv/app/live/144/null/index.m3u8"
+            ]
           
         },
         {
