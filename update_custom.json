@@ -2,16 +2,16 @@
  {
   "id":0,
   "name": "TRT 1 FHD",
-  "category": "mix",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/trt1.png",
-  "url": "https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8"
+  "category": "colorsHD",
+  "photo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+  "url": "https://www.livesportsclub.tk/jiotv/app/live/144/null/index.m3u8"
  },
  {
   "id":1,
   "name": "Star Tv HD",
-  "category": "mix",
-  "photo": "https://github.com/onermorkoc/Tv-List/raw/main/tv-logo/star-tv.png",
-  "url": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8"
+  "category": "abp news",
+  "photo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",
+  "url": "https://www.livesportsclub.tk/jiotv/app/live/177/null/index.m3u8"
  },
  {
   "id":2,
