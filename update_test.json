@@ -1,11 +1,8 @@
 {
-  "Code": 0,
-  "Msg": "",
-  "UpdateStatus": 1,
-  "VersionCode": 3,
-  "versionName": "1.0.5",
-  "updateLog": "\r\n1、sns new。\r\n2、sn2 update。\r\n3、bug fix。\r\n4、admin new。",
-  "apkUrl": "https://github.com/tsynik/LeanbackLauncher/releases/download/v1.50/LeanbackOnFire_v1.50-release.apk",
-  "apkSize": 102044,
-  "ApkMd5": "1BC4F5D58C12C108451EEEA1613534E4"
+ "versionCode": 3,    //重点：通过此项与本地 app versionCode 比较是否有新版本。
+  "versionName": "3.0.12",
+  "url": "https://www.sanusa.in/updateApp/newApp.apk",
+  "msg": "1，添加删除信用卡接口。\r\n2，添加vip认证。\r\n3，区分自定义消费，一个小时不限制。\r\n4，添加放弃任务接口，小时内不生成。\r\n5，消费任务手动生成。"",
+  "size": "11438",
+  "md5": "3DFFB8FA4BFCB7C1C13F1C72599EB4E5"
 }
