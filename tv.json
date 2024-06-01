@@ -2,7 +2,8 @@
   {
     "url": "https://www.youtube.com/results?search_query=Bangladesh+Live+TV+bangla&sp=EgJAAQ%253D%253D",
     "broker": "API 2",
-    "videos": [
+    "videos": 
+    [
       {
         "channelName": "SOMOY TV",
         "channelLogo": "https://livetv-njf6.onrender.com/somoy.jpg",
@@ -21,17 +22,6 @@
         "url": "https://www.youtube.com/embed/N1n7TxUn7oM",
         "country": "BD"
       }
-    ],
-    "lastExecution": "June 1, 2024 at 6:50 PM",
-    "#error": false,
-    "#debug": {
-      "requestId": "Tu09hCRdg7FY8of",
-      "url": "https://www.youtube.com/results?search_query=Bangladesh+Live+TV+bangla&sp=EgJAAQ%253D%253D",
-      "loadedUrl": "https://www.youtube.com/results?search_query=Bangladesh+Live+TV+bangla&sp=EgJAAQ%253D%253D",
-      "method": "GET",
-      "retryCount": 0,
-      "errorMessages": [],
-      "statusCode": 200
-    }
+    ]
   }
 ]
