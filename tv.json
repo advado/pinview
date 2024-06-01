@@ -5,22 +5,22 @@
     "videos": 
     [
       {
-        "channelName": "SOMOY TV",
-        "channelLogo": "https://livetv-njf6.onrender.com/somoy.jpg",
-        "url": "https://www.youtube.com/embed/-XM4JOKb1gE",
-        "country": "BD"
+        "channelName": "Avenues Khabar",
+        "channelLogo": "https://snowberry.prixacdn.net/media/av_vj7ypigi0u9ihjehg71f5bade7hgd5yt4cdzctq5n15poqjutkvavi25gjak.jpeg",
+        "url": "https://www.youtube.com/embed/yjvdmcB17uE",
+        "country": "IN"
       },
       {
-        "channelName": "Ekattor TV",
-        "channelLogo": "https://livetv-njf6.onrender.com/ekattor.jpg",
-        "url": "https://www.youtube.com/embed/kMImXkPMnA8",
-        "country": "BD"
+        "channelName": "News24",
+        "channelLogo": "https://github.com/advado/pinview/blob/main/news24n.png",
+        "url": "https://www.youtube.com/embed/VYzsVGjtLE4",
+        "country": "IN"
       },
       {
         "channelName": "Jamuna TV",
         "channelLogo": "https://livetv-njf6.onrender.com/jamuna.jpg",
         "url": "https://www.youtube.com/embed/N1n7TxUn7oM",
-        "country": "BD"
+        "country": "IN"
       }
     ]
   }
