@@ -1,7 +1,7 @@
 {
     "Movies": [
         {
-            "imageUrl": "https://firebasestorage.googleapis.com/v0/b/cyno-launcher.appspot.com/o/movies%2Fbohimian.jpg?alt=media&token=1859a5a9-c7a1-4f8e-a787-35536c2d93ea",
+            "imageUrl": "https://clubrunner.blob.core.windows.net/00000013400/Images/Bohemian-Rhapsody.jpg",
             "title": "Bohimian",
             "videoUrl": "mP0VHJYFOAU"
         },
